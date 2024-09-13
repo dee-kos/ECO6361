@@ -1,0 +1,1 @@
+D_ECO6361_HW01.mod file contains dynare codes (answers to first 2 questions of the homework 1). Q_3_and_4_Graphs.m contains matlab codes (answers to questions 3 and 4). Had to use a matlab file which uses the output of the dynare file as tiledlayout functions was asked to use, which I could not directly used in dynare.
